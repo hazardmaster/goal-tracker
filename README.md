@@ -14,3 +14,10 @@
 - CSS Modules
 - Using attacked template literals
 - Setting CSS Classes Dynamically
+
+## Debugging
+
+- Understanding React Error Messages
+- Analyzing Code Flow & Warnings
+- Working with Breakpoints
+- Using the React DevTools
